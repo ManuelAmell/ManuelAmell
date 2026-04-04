@@ -9,8 +9,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23042C53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManuelAmell)
-[![Email](https://img.shields.io/badge/Email-%23378ADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelamell)
+[![Email](https://img.shields.io/badge/Email-%23378ADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelfcoamell@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuel-amell-19b4a0398)
 
 <br/>
 
