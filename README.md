@@ -31,21 +31,29 @@ degree:  Systems Engineering
 status:  Student — building every day
 
 main_repo: Programming-Exercises
-  started:  April 2025
-  updated:  April 2026 (active)
-  size:     ~100 MB of real code
+started:  September 2024
+updated:  April 2026 (active)
+size:     ~600 MB of real code
 
 code_written:
-  C++:            ~4,000+ lines / 80+ files
-  Java:           ~800+  lines / 20+ files
-  Python:         ~1,500+ lines
-  HTML/CSS:       ~300+  lines
+  C++:        ~8,000+ lines
+  Java:       ~3,000+ lines
+  Python:     ~2,500+ lines
+  HTML/CSS:   ~300+ lines
 
 philosophy: >
   "The people who are crazy enough to
    think they can change the world
    are the ones who do." — Steve Jobs
 ```
+
+## 🏅 Achievements
+
+- Top 3 - Supabase & Avvy Hackathon 
+  - Developed **Tierra Bomba Lancha Racing**
+
+  - Worked with    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)      ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)       ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) 
+    
 
 <br clear="right"/>
 
@@ -93,7 +101,7 @@ philosophy: >
 
 </div>
 
-> 📦 **~100 MB** of organized exercises across 4 languages — created April 2025, actively maintained.
+> 📦 **~600 MB** of organized exercises across 4 languages — created April 2025, actively maintained.
 
 <br/>
 
@@ -104,7 +112,7 @@ philosophy: >
 <td width="25%" valign="top">
 
 **💻 C++**
-`80+ files · 4,000+ lines`
+`80+ files · 8,000+ lines`
 
 - 📁 File Handling (txt & binary)
 - 🔢 Arrays & Matrices
@@ -120,7 +128,7 @@ philosophy: >
 <td width="25%" valign="top">
 
 **🐍 Python**
-`1,500+ lines`
+`2,500+ lines`
 
 - 🤖 Automation Scripts
 - 💾 Backup System
@@ -136,7 +144,7 @@ philosophy: >
 <td width="25%" valign="top">
 
 **☕ Java**
-`20+ files · 800+ lines`
+`20+ files · 3000+ lines`
 
 - 🏆 HackerRank Easy
 - 🏆 HackerRank Medium
