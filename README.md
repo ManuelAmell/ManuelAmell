@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,50:185FA5,100:378ADD&height=230&section=header&text=Manuel%20Amell&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=378ADD&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+Python+Developer;Linux+%26+Git+Power+User;Building+real+things%2C+one+commit+at+a+time.;%22Stay+hungry.+Stay+foolish.%22+%E2%80%94+Steve+Jobs" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=378ADD&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript+Developer;Linux+%26+Git+Power+User;Building+real+things%2C+one+commit+at+a+time.;%22Stay+hungry.+Stay+foolish.%22+%E2%80%94+Steve+Jobs" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -29,7 +27,6 @@ name:    Manuel Amell
 from:    Colombia 🇨🇴
 degree:  Systems Engineering
 status:  Student — building every day
-
 main_repo: Programming-Exercises
 started:  September 2024
 updated:  April 2026 (active)
@@ -39,6 +36,7 @@ code_written:
   C++:        ~8,000+ lines
   Java:       ~3,000+ lines
   Python:     ~2,500+ lines
+  JavaScript: ~600+ lines
   HTML/CSS:   ~300+ lines
 
 philosophy: >
@@ -49,11 +47,15 @@ philosophy: >
 
 ## 🏅 Achievements
 
-- Top 3 - Supabase & Avvy Hackathon 
-  - Developed **Tierra Bomba Lancha Racing**
-
-  - Worked with    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)      ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)       ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) 
-    
+- Top 3 - Supabase & Avvy Hackathon - Developed **Tierra Bomba Lancha Racing**
+- Worked with  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)   
+  ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br clear="right"/>
 
@@ -70,6 +72,7 @@ philosophy: >
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -101,7 +104,7 @@ philosophy: >
 
 </div>
 
-> 📦 **~600 MB** of organized exercises across 4 languages — created April 2025, actively maintained.
+> 📦 **~600 MB** of organized exercises across 5 languages — created April 2025, actively maintained.
 
 <br/>
 
@@ -109,9 +112,10 @@ philosophy: >
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 **💻 C++**
+
 `80+ files · 8,000+ lines`
 
 - 📁 File Handling (txt & binary)
@@ -125,9 +129,10 @@ philosophy: >
 - 📊 Bubble, Insertion, Dijkstra
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 **🐍 Python**
+
 `2,500+ lines`
 
 - 🤖 Automation Scripts
@@ -141,9 +146,10 @@ philosophy: >
 - 📊 Sort Algorithms
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 **☕ Java**
+
 `20+ files · 3000+ lines`
 
 - 🏆 HackerRank Easy
@@ -154,9 +160,25 @@ philosophy: >
 - 🏗 POO Workshops
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
+
+**💛 JavaScript**
+
+`30+ files · 600+ lines`
+
+- 📝 Variables & Types
+- ➕ Operators
+- 🔄 Control Flow
+- 📦 Objects
+- 🏭 Factory Functions
+- 🏗 Constructors
+- 🔗 References
+
+</td>
+<td width="20%" valign="top">
 
 **🌐 HTML/CSS**
+
 `3 files · 300+ lines`
 
 - 🖥 index.html
@@ -164,6 +186,7 @@ philosophy: >
 - 🎨 style.css
 
 **📓 Jupyter**
+
 `~4% of codebase`
 
 - 📊 Data experiments
@@ -213,33 +236,39 @@ philosophy: >
 
 ```
 ALGORITHMS & DATA STRUCTURES
-  ✅ Bubble Sort · Insertion Sort · Dijkstra
-  ✅ Arrays, Matrices, Linked Structures
-  ✅ Recursion & Functions
+✅ Bubble Sort · Insertion Sort · Dijkstra
+✅ Arrays, Matrices, Linked Structures
+✅ Recursion & Functions
 
 OBJECT ORIENTED PROGRAMMING
-  ✅ Encapsulation · Inheritance · Polymorphism (Java)
-  ✅ Classes & Objects (C++ / Python)
-  ✅ Geometric Systems (Java OOP Workshop)
+✅ Encapsulation · Inheritance · Polymorphism (Java)
+✅ Classes & Objects (C++ / Python)
+✅ Geometric Systems (Java OOP Workshop)
 
 SECURITY & SYSTEMS
-  ✅ Password Generator (C++)
-  ✅ Port Scanner (C++)
-  ✅ File I/O — Text & Binary (C++)
+✅ Password Generator (C++)
+✅ Port Scanner (C++)
+✅ File I/O — Text & Binary (C++)
 
 AUTOMATION & SCRIPTING
-  ✅ Backup System (Python)
-  ✅ Email Automation (Python)
-  ✅ Mouse/Keyboard Control (Python)
+✅ Backup System (Python)
+✅ Email Automation (Python)
+✅ Mouse/Keyboard Control (Python)
+
+WEB DEVELOPMENT
+✅ JavaScript Fundamentals (ES6+)
+✅ HTML5 & CSS3
+✅ DOM Manipulation
+✅ Object-Oriented JavaScript
 
 DATABASE & BACKEND
-  🔄 Supabase — Learning & Experimenting
-  🔄 SQL Basics
+🔄 Supabase — Learning & Experimenting
+🔄 SQL Basics
 
 ENVIRONMENT
-  ✅ Linux (daily driver)
-  ✅ Git & GitHub (version control)
-  ✅ Terminal & Bash
+✅ Linux (daily driver)
+✅ Git & GitHub (version control)
+✅ Terminal & Bash
 ```
 
 ---
@@ -256,11 +285,12 @@ ENVIRONMENT
 [✅] C++         — OOP, Algorithms, Files, Systems Programming
 [✅] Java        — OOP, HackerRank, Workshops
 [✅] Python      — Automation, AI, Games, Scripting
+[✅] JavaScript  — Fundamentals, Objects, Control Flow
 [✅] HTML/CSS    — Web Fundamentals
 [✅] Git         — Version Control
 [✅] Linux       — Command Line & Daily OS
 [🔄] Supabase   — Backend as a Service
-[🔄] JavaScript — Next step in web dev
+[🔄] JavaScript — Advanced concepts & frameworks
 [⬜] SQL/NoSQL  — Databases in depth
 [⬜] REST APIs  — Backend development
 [⬜] Cloud      — Deployment & DevOps
