@@ -30,14 +30,10 @@ status:  Student — building every day
 main_repo: Programming-Exercises
 started:  September 2024
 updated:  April 2026 (active)
-size:     ~600 MB of real code
 
-code_written:
-  C++:        ~8,000+ lines
-  Java:       ~3,000+ lines
-  Python:     ~2,500+ lines
-  JavaScript: ~600+ lines
-  HTML/CSS:   ~300+ lines
+languages:
+  - C++ · Python · Java
+  - JavaScript · HTML/CSS
 
 philosophy: >
   "The people who are crazy enough to
@@ -90,11 +86,80 @@ philosophy: >
 
 ---
 
-<!-- ═══════════════════ FEATURED REPO ═══════════════════ -->
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 <div align="center">
 
-## 🚀 &nbsp;Featured Repository
+## 🚀 &nbsp;Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [AniMDB](https://github.com/ManuelAmell/animdb)
+
+**Tu gestor personal de anime y cine**
+
+App web y desktop (Electron) para organizar, puntuar y descubrir anime y películas. Backend con Express + SQLite y sincronización en tiempo real vía Socket.IO.
+
+**Highlights:**
+- 📋 Vistas: Lista, Ranking, Pendientes, Kanban
+- ⭐ Puntuación 0–10 con drag-and-drop
+- 📥 Importación desde AniList, MAL, Trakt, Letterboxd
+- 📤 Exportación en JSON, CSV, Markdown
+- 🌐 PWA instalable con cache offline
+- 👤 Registro e inicio de sesión por usuario
+
+![TypeScript](https://img.shields.io/badge/TypeScript-52.7%25-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-20.9%25-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-11%25-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Amellify](https://github.com/ManuelAmell/Amellify)
+
+**Gestor de horarios universitarios**
+
+App web/PWA para gestionar materias, horarios, profesores y aulas. Sincronización en tiempo real, autenticación JWT y datos por usuario en SQLite.
+
+**Highlights:**
+- 🗓 Vista Grid 24h estilo Google Calendar
+- 🔴 Indicador de hora actual en tiempo real
+- 🧮 Calculadora de notas ponderadas
+- ⌨️ 13 atajos de teclado
+- 📅 Export a PDF, ICS, Google Calendar
+- 🌐 PWA instalable con modo offline
+
+![JavaScript](https://img.shields.io/badge/JavaScript-69.5%25-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-17%25-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-8.5%25-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ PROGRAMMING EXERCISES ═══════════════════ -->
+
+<div align="center">
+
+## 📦 &nbsp;Main Repository
 
 </div>
 
@@ -116,8 +181,6 @@ philosophy: >
 
 **💻 C++**
 
-`80+ files · 8,000+ lines`
-
 - 📁 File Handling (txt & binary)
 - 🔢 Arrays & Matrices
 - 🔧 Functions & Algebra
@@ -132,8 +195,6 @@ philosophy: >
 <td width="20%" valign="top">
 
 **🐍 Python**
-
-`2,500+ lines`
 
 - 🤖 Automation Scripts
 - 💾 Backup System
@@ -150,8 +211,6 @@ philosophy: >
 
 **☕ Java**
 
-`20+ files · 3000+ lines`
-
 - 🏆 HackerRank Easy
 - 🏆 HackerRank Medium
 - 🏆 HackerRank Hard
@@ -163,8 +222,6 @@ philosophy: >
 <td width="20%" valign="top">
 
 **💛 JavaScript**
-
-`30+ files · 600+ lines`
 
 - 📝 Variables & Types
 - ➕ Operators
@@ -179,15 +236,11 @@ philosophy: >
 
 **🌐 HTML/CSS**
 
-`3 files · 300+ lines`
-
 - 🖥 index.html
 - 🖥 index2.html
 - 🎨 style.css
 
 **📓 Jupyter**
-
-`~4% of codebase`
 
 - 📊 Data experiments
 - 🧪 Python notebooks
