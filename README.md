@@ -22,17 +22,12 @@
 
 <!-- ═══════════════════ PROFILE (ASCII + NEOFETCH, ONE CARD) ═══════════════════ -->
 
-<style>
-@keyframes typeP{from{width:0}to{width:140px}}
-@keyframes curP{0%,49%{border-color:#85B7EB}50%,100%{border-color:transparent}}
-</style>
-
 <div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
   <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
     <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
     <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
     <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="display:inline-block; overflow:hidden; white-space:nowrap; width:0; color:#85B7EB; font-family:monospace; font-size:13px; vertical-align:middle; animation:typeP .6s steps(14) .2s forwards, curP .4s steps(1) 4 .8s forwards; border-right:2px solid #85B7EB;">profile — neofetch</span>
+    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">profile — neofetch</span>
   </div>
   <div style="padding:16px;">
 
