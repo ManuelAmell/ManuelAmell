@@ -41,21 +41,21 @@
 <td width="62%" valign="top">
 
 <pre style="background:transparent; margin:0; font-family:'Fira Code',monospace; font-size:13px; line-height:1.6; color:#B5D4F4;">
-<span style="color:#85B7EB;">manuel</span>@<span style="color:#85B7EB;">github</span>
+<span style="color:#85B7EB; font-weight:bold;">manuel</span><span style="color:#5A8DBF;">@</span><span style="color:#85B7EB; font-weight:bold;">github</span>
 <span style="color:#378ADD;">─────────────────</span>
-<span style="color:#85B7EB;">Name</span>       Manuel Amell
-<span style="color:#85B7EB;">Location</span>   Colombia 🇨🇴
-<span style="color:#85B7EB;">Degree</span>     Systems Engineering
-<span style="color:#85B7EB;">Status</span>     Student — building every day
-<span style="color:#85B7EB;">Started</span>    September 2024
-<span style="color:#85B7EB;">Updated</span>    July 2026 (active)
-<span style="color:#85B7EB;">Languages</span>  C++ · Python · Java
-           JavaScript · HTML/CSS · SQL
+<span style="color:#F2A65A;">Name</span>       <span style="color:#E8EEF7;">Manuel Amell</span>
+<span style="color:#F2A65A;">Location</span>   <span style="color:#E8EEF7;">Colombia 🇨🇴</span>
+<span style="color:#F2A65A;">Degree</span>     <span style="color:#E8EEF7;">Systems Engineering</span>
+<span style="color:#F2A65A;">Status</span>     <span style="color:#7FD99A;">Student — building every day</span>
+<span style="color:#F2A65A;">Started</span>    <span style="color:#E8EEF7;">September 2024</span>
+<span style="color:#F2A65A;">Updated</span>    <span style="color:#7FD99A;">July 2026 (active)</span>
+<span style="color:#F2A65A;">Languages</span>  <span style="color:#E37B7B;">C++</span> <span style="color:#5A8DBF;">·</span> <span style="color:#F2D06B;">Python</span> <span style="color:#5A8DBF;">·</span> <span style="color:#E8A33D;">Java</span>
+           <span style="color:#F2D06B;">JavaScript</span> <span style="color:#5A8DBF;">·</span> <span style="color:#E37B7B;">HTML/CSS</span> <span style="color:#5A8DBF;">·</span> <span style="color:#7FA8D9;">SQL</span>
 <span style="color:#378ADD;">─────────────────</span>
-<span style="color:#85B7EB;">Philosophy</span>
-"The people who are crazy enough to
+<span style="color:#F2A65A;">Philosophy</span>
+<span style="color:#9FB8D6; font-style:italic;">"The people who are crazy enough to
  think they can change the world
- are the ones who do." — Steve Jobs
+ are the ones who do." — Steve Jobs</span>
 </pre>
 
 </td>
@@ -206,79 +206,48 @@ App web/PWA para gestionar materias, horarios, profesores y aulas. Sincronizaci�
 
 > 📦 **~600 MB** of organized exercises across 5 languages — created April 2025, actively maintained.
 
-<table>
-<tr>
-<td width="20%" valign="top">
-
-**💻 C++**
-
-- 📁 File Handling (txt & binary)
-- 🔢 Arrays & Matrices
-- 🔧 Functions & Algebra
-- 🏗 Data Structures
-- 🔒 Password Generator
-- 🌐 Port Scanner
-- 🎮 Games
-- 🎨 Visual Effects & ASCII Art
-- 📊 Bubble, Insertion, Dijkstra
-
-</td>
-<td width="20%" valign="top">
-
-**🐍 Python**
-
-- 🤖 Automation Scripts
-- 💾 Backup System
-- 🖱 Mouse Controller
-- 📧 Email Automation
-- 🎵 Music Player
-- 🧠 AI Integration
-- ♟ Chess Game
-- 📄 PDF Generator
-- 📊 Sort Algorithms
-
-</td>
-<td width="20%" valign="top">
-
-**☕ Java**
-
-- 🏆 HackerRank Easy
-- 🏆 HackerRank Medium
-- 🏆 HackerRank Hard
-- 📐 Geometric Figures (OOP)
-- 🔐 Encapsulation Exercises
-- 🏗 POO Workshops
-
-</td>
-<td width="20%" valign="top">
-
-**💛 JavaScript**
-
-- 📝 Variables & Types
-- ➕ Operators
-- 🔄 Control Flow
-- 📦 Objects
-- 🏭 Factory Functions
-- 🏗 Constructors
-- 🔗 References
-
-</td>
-<td width="20%" valign="top">
-
-**🌐 HTML/CSS**
-
-- 🖥 index.html
-- 🖥 index2.html
-- 🎨 style.css
-
-**📓 Jupyter**
-
-- 📊 Data experiments
-- 🧪 Python notebooks
-
-</td>
-</tr>
-</table>
+<pre style="background:transparent; margin:0; font-family:'Fira Code',monospace; font-size:13px; line-height:1.55; color:#B5D4F4;">
+<span style="color:#85B7EB; font-weight:bold;">Programming-Exercises/</span>
+<span style="color:#5A8DBF;">├──</span> <span style="color:#00599C; font-weight:bold;">C++/</span>
+<span style="color:#5A8DBF;">│   ├──</span> File Handling <span style="color:#7A93B5;">(txt &amp; binary)</span>
+<span style="color:#5A8DBF;">│   ├──</span> Arrays &amp; Matrices
+<span style="color:#5A8DBF;">│   ├──</span> Functions &amp; Algebra
+<span style="color:#5A8DBF;">│   ├──</span> Data Structures
+<span style="color:#5A8DBF;">│   ├──</span> Password Generator <span style="color:#7A93B5;">🔒</span>
+<span style="color:#5A8DBF;">│   ├──</span> Port Scanner <span style="color:#7A93B5;">🌐</span>
+<span style="color:#5A8DBF;">│   ├──</span> Games &amp; Visual Effects / ASCII Art
+<span style="color:#5A8DBF;">│   └──</span> Sorting &amp; Pathfinding <span style="color:#7A93B5;">(Bubble, Insertion, Dijkstra)</span>
+<span style="color:#5A8DBF;">│</span>
+<span style="color:#5A8DBF;">├──</span> <span style="color:#3776AB; font-weight:bold;">Python/</span>
+<span style="color:#5A8DBF;">│   ├──</span> Automation Scripts
+<span style="color:#5A8DBF;">│   ├──</span> Backup System
+<span style="color:#5A8DBF;">│   ├──</span> Mouse Controller
+<span style="color:#5A8DBF;">│   ├──</span> Email Automation
+<span style="color:#5A8DBF;">│   ├──</span> Music Player
+<span style="color:#5A8DBF;">│   ├──</span> AI Integration
+<span style="color:#5A8DBF;">│   ├──</span> Chess Game
+<span style="color:#5A8DBF;">│   ├──</span> PDF Generator
+<span style="color:#5A8DBF;">│   └──</span> Sort Algorithms
+<span style="color:#5A8DBF;">│</span>
+<span style="color:#5A8DBF;">├──</span> <span style="color:#ED8B00; font-weight:bold;">Java/</span>
+<span style="color:#5A8DBF;">│   ├──</span> HackerRank <span style="color:#7A93B5;">(Easy · Medium · Hard)</span>
+<span style="color:#5A8DBF;">│   ├──</span> Geometric Figures <span style="color:#7A93B5;">(OOP)</span>
+<span style="color:#5A8DBF;">│   ├──</span> Encapsulation Exercises
+<span style="color:#5A8DBF;">│   └──</span> POO Workshops
+<span style="color:#5A8DBF;">│</span>
+<span style="color:#5A8DBF;">├──</span> <span style="color:#F7DF1E; font-weight:bold;">JavaScript/</span>
+<span style="color:#5A8DBF;">│   ├──</span> Variables &amp; Types
+<span style="color:#5A8DBF;">│   ├──</span> Operators
+<span style="color:#5A8DBF;">│   ├──</span> Control Flow
+<span style="color:#5A8DBF;">│   ├──</span> Objects
+<span style="color:#5A8DBF;">│   ├──</span> Factory Functions
+<span style="color:#5A8DBF;">│   ├──</span> Constructors
+<span style="color:#5A8DBF;">│   └──</span> References
+<span style="color:#5A8DBF;">│</span>
+<span style="color:#5A8DBF;">└──</span> <span style="color:#E34F26; font-weight:bold;">HTML-CSS/ &amp; Jupyter/</span>
+<span style="color:#5A8DBF;">    ├──</span> index.html, index2.html, style.css
+<span style="color:#5A8DBF;">    └──</span> Data experiments <span style="color:#7A93B5;">(Python notebooks)</span>
+</pre>
 
   </div>
 </div>
