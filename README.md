@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManuelAmell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4&rank_icon=github" width="55%" />
+
 
 </div>
 
