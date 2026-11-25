@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+booting+amell.sys+...+%5BOK%5D;Full-stack%3A+Next.js+%C2%B7+PostgreSQL+%C2%B7+Python;Building+AI-assisted+tools+%26+agent+workflows;Linux+%2F+Hyprland+power+user;Shipping+real+software+for+real+clients." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+booting+amell.sys+...+%5BOK%5D;Full-stack%3A+Next.js+%C2%B7+PostgreSQL+%C2%B7+Python;Building+AI-assisted+tools+%26+agent+workflows;Omarchy+%2F+Hyprland+power+user;Shipping+real+software+for+real+clients." alt="Typing SVG" /></a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ManuelAmell-020B1A?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=042C53)](https://github.com/ManuelAmell)
 [![Email](https://img.shields.io/badge/Email-Contact-020B1A?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=042C53)](mailto:manuelfcoamell@gmail.com)
@@ -277,7 +277,7 @@ Also: [**AmellCode++**](https://github.com/ManuelAmell/AmellCode-), my first min
 [✓] JavaScript / TypeScript  Next.js, React, Node, Express, Vite
 [✓] SQL / PostgreSQL         modeling, 3NF, triggers, RLS, transactions
 [✓] REST & real-time APIs    FastAPI, Express, Socket.IO, SSE
-[✓] Docker · Linux · Git     daily driver: Arch + Hyprland, self-hosted homelab
+[✓] Docker · Linux · Git     daily driver: Omarchy, self-hosted homelab
 [~] Cloud & DevOps           CI pipelines, deployments, observability
 [~] AI agents & tooling      multi-agent orchestration, skills, LLM pipelines
 [~] C# / .NET                backend services
