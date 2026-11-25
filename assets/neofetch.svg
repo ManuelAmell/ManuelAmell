@@ -1,0 +1,69 @@
+<svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" width="840" height="875" viewBox="0 0 840 875" font-family="'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A3D6F"/>
+      <stop offset="1" stop-color="#020B1A"/>
+    </linearGradient>
+    <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00E5FF" opacity="0.04"/>
+    </pattern>
+    <style>
+      .k { fill: #00E5FF; font-weight: 700; }
+      .v { fill: #E8EEF7; }
+      text { white-space: pre; }
+      .m { fill: #5A8DBF; }
+      .ok { fill: #7FD99A; }
+      .row { animation: in .35s ease-out backwards; }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes in { from { opacity: 0; transform: translateX(-10px) } to { opacity: 1; transform: none } }
+      @keyframes blink { 0%,100% { opacity: 1 } 50% { opacity: 0 } }
+    </style>
+  </defs>
+  <rect width="840" height="875" rx="12" fill="url(#bg)"/>
+  <rect width="840" height="875" rx="12" fill="url(#lines)"/>
+  <rect x="0.5" y="0.5" width="839" height="874" rx="12" fill="none" stroke="#185FA5"/>
+
+  <!-- title bar -->
+  <path d="M0.5 56V12.5A12 12 0 0 1 12.5 0.5H827.5A12 12 0 0 1 839.5 12.5V56Z" fill="#042C53" stroke="#185FA5"/>
+  <circle cx="30" cy="28" r="7" fill="#ff5f56"/>
+  <circle cx="54" cy="28" r="7" fill="#ffbd2e"/>
+  <circle cx="78" cy="28" r="7" fill="#27c93f"/>
+  <text x="420" y="34" text-anchor="middle" font-size="18" fill="#85B7EB">manuel@amell — neofetch</text>
+
+  <g font-size="26">
+    <text x="44" y="118"><tspan class="k">$</tspan> <tspan class="v">neofetch --profile</tspan></text>
+
+    <g class="row" style="animation-delay:.2s"><text x="44" y="178"><tspan class="k">manuel</tspan><tspan class="m">@</tspan><tspan class="k">github</tspan></text></g>
+    <g class="row" style="animation-delay:.3s"><text x="44" y="210" class="m">────────────────────────────────────</text></g>
+
+    <g class="row" style="animation-delay:.4s"><text x="44" y="256"><tspan class="k">Name     </tspan><tspan class="v">Manuel Amell</tspan></text></g>
+    <g class="row" style="animation-delay:.5s"><text x="44" y="298"><tspan class="k">Location </tspan><tspan class="v">Cartagena, Colombia</tspan></text></g>
+    <g class="row" style="animation-delay:.6s"><text x="44" y="340"><tspan class="k">Degree   </tspan><tspan class="v">Systems Engineering</tspan></text></g>
+    <g class="row" style="animation-delay:.7s"><text x="44" y="382"><tspan class="k">Status   </tspan><tspan class="ok">● online — shipping</tspan></text></g>
+    <g class="row" style="animation-delay:.8s"><text x="44" y="424"><tspan class="k">Started  </tspan><tspan class="v">Sep 2024</tspan></text></g>
+    <g class="row" style="animation-delay:.9s"><text x="44" y="466"><tspan class="k">Updated  </tspan><tspan class="ok">Nov 2026</tspan></text></g>
+    <g class="row" style="animation-delay:1s"><text x="44" y="508"><tspan class="k">OS       </tspan><tspan class="v">Arch Linux · Hyprland</tspan></text></g>
+    <g class="row" style="animation-delay:1.1s"><text x="44" y="550"><tspan class="k">Langs    </tspan><tspan fill="#3178C6">TS</tspan><tspan class="m"> · </tspan><tspan fill="#F2D06B">Python</tspan><tspan class="m"> · </tspan><tspan fill="#E37B7B">C++</tspan><tspan class="m"> · </tspan><tspan fill="#E8A33D">Java</tspan></text></g>
+    <g class="row" style="animation-delay:1.2s"><text x="44" y="590"><tspan class="k">         </tspan><tspan fill="#B07FE0">C#</tspan><tspan class="m"> · </tspan><tspan fill="#7FA8D9">SQL</tspan><tspan class="m"> · </tspan><tspan fill="#F7DF1E">JavaScript</tspan></text></g>
+    <g class="row" style="animation-delay:1.3s"><text x="44" y="632"><tspan class="k">Focus    </tspan><tspan class="v">Full-stack · Data · AI agents</tspan></text></g>
+    <g class="row" style="animation-delay:1.4s"><text x="44" y="674"><tspan class="k">Repos    </tspan><tspan class="v">29 repos · 18 public</tspan></text></g>
+
+    <g class="row" style="animation-delay:1.5s"><text x="44" y="716" class="m">────────────────────────────────────</text></g>
+    <g class="row" style="animation-delay:1.6s">
+      <text x="44" y="760" font-size="22" fill="#9FB8D6" font-style="italic">"Stay hungry. Stay foolish."</text>
+      <text x="44" y="794" font-size="20" class="m">— Steve Jobs</text>
+    </g>
+
+    <g class="row" style="animation-delay:1.7s">
+      <rect x="44"  y="818" width="36" height="22" fill="#020B1A"/>
+      <rect x="84"  y="818" width="36" height="22" fill="#042C53"/>
+      <rect x="124" y="818" width="36" height="22" fill="#185FA5"/>
+      <rect x="164" y="818" width="36" height="22" fill="#378ADD"/>
+      <rect x="204" y="818" width="36" height="22" fill="#85B7EB"/>
+      <rect x="244" y="818" width="36" height="22" fill="#00E5FF"/>
+      <rect x="284" y="818" width="36" height="22" fill="#7FD99A"/>
+      <rect x="324" y="818" width="36" height="22" fill="#FF2E88"/>
+      <rect class="cur" x="380" y="818" width="14" height="22" fill="#00E5FF"/>
+    </g>
+  </g>
+</svg>

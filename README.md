@@ -1,354 +1,309 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,50:185FA5,100:378ADD&height=230&section=header&text=Manuel%20Amell&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=378ADD&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript+Developer;Linux+%26+Git+Power+User;Building+real+things%2C+one+commit+at+a+time.;%22Stay+hungry.+Stay+foolish.%22+%E2%80%94+Steve+Jobs" alt="Typing SVG" /></a>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23042C53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManuelAmell)
-[![Email](https://img.shields.io/badge/Email-%23378ADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelfcoamell@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-amell-19b4a0398)
-
-<br>
-
-</div>
-
----
-
-<!-- ═══════════════════ PROFILE (ASCII + NEOFETCH, ONE CARD) ═══════════════════ -->
-
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">profile — neofetch</span>
-  </div>
-  <div style="padding:16px;">
-
-<table>
-<tr>
-<td width="38%" valign="top" align="center">
-
-<img src="./manuel-ascii.svg" width="100%" alt="Manuel Amell — ASCII portrait" />
-
-</td>
-<td width="62%" valign="top">
-
-<pre style="background:transparent; margin:0; font-family:'Fira Code',monospace; font-size:13px; line-height:1.6; color:#B5D4F4;">
-<span style="color:#85B7EB; font-weight:bold;">manuel</span><span style="color:#5A8DBF;">@</span><span style="color:#85B7EB; font-weight:bold;">github</span>
-<span style="color:#378ADD;">─────────────────</span>
-<span style="color:#F2A65A;">Name</span>       <span style="color:#E8EEF7;">Manuel Amell</span>
-<span style="color:#F2A65A;">Location</span>   <span style="color:#E8EEF7;">Colombia 🇨🇴</span>
-<span style="color:#F2A65A;">Degree</span>     <span style="color:#E8EEF7;">Systems Engineering</span>
-<span style="color:#F2A65A;">Status</span>     <span style="color:#7FD99A;">Student — building every day</span>
-<span style="color:#F2A65A;">Started</span>    <span style="color:#E8EEF7;">September 2024</span>
-<span style="color:#F2A65A;">Updated</span>    <span style="color:#7FD99A;">July 2026 (active)</span>
-<span style="color:#F2A65A;">Languages</span>  <span style="color:#E37B7B;">C++</span> <span style="color:#5A8DBF;">·</span> <span style="color:#F2D06B;">Python</span> <span style="color:#5A8DBF;">·</span> <span style="color:#E8A33D;">Java</span>
-           <span style="color:#F2D06B;">JavaScript</span> <span style="color:#5A8DBF;">·</span> <span style="color:#E37B7B;">HTML/CSS</span> <span style="color:#5A8DBF;">·</span> <span style="color:#7FA8D9;">SQL</span>
-<span style="color:#378ADD;">─────────────────</span>
-<span style="color:#F2A65A;">Philosophy</span>
-<span style="color:#9FB8D6; font-style:italic;">"The people who are crazy enough to
- think they can change the world
- are the ones who do." — Steve Jobs</span>
-</pre>
-
-</td>
-</tr>
-</table>
+<img src="./assets/hero.svg" width="100%" alt="MANUEL AMELL — Systems Engineering Student · Full-stack & AI tooling · Cartagena, CO" />
 
 <br/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+booting+amell.sys+...+%5BOK%5D;Full-stack%3A+Next.js+%C2%B7+PostgreSQL+%C2%B7+Python;Building+AI-assisted+tools+%26+agent+workflows;Linux+%2F+Hyprland+power+user;Shipping+real+software+for+real+clients." alt="Typing SVG" /></a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ManuelAmell-020B1A?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=042C53)](https://github.com/ManuelAmell)
+[![Email](https://img.shields.io/badge/Email-Contact-020B1A?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=042C53)](mailto:manuelfcoamell@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-020B1A?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=042C53)](https://www.linkedin.com/in/manuel-amell-19b4a0398)
+
+</div>
+
+<img src="./assets/section-identity.svg" width="100%" alt="01 // IDENTITY" />
+
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+<img src="./manuel-ascii.svg" width="100%" alt="Manuel Amell — ASCII portrait" />
+</td>
+<td width="55%" valign="top" align="center">
+<img src="./assets/neofetch.svg" width="100%" alt="neofetch: Manuel Amell · Cartagena, Colombia · Systems Engineering · TS, Python, C++, Java, C#, SQL" />
+</td>
+</tr>
+</table>
+
+```text
+> I build software that ships: multi-tenant SaaS, point-of-sale systems, real-time apps,
+> vision-AI pipelines and the homelab they run on. Systems Engineering student by day,
+> agent-orchestration tinkerer by night.
+```
+
+<img src="./assets/section-arsenal.svg" width="100%" alt="02 // ARSENAL" />
+
 <div align="center">
 
+**`// languages`**
 
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,cs,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, Java, C#, HTML, CSS" />
 
-</div>
+**`// frontend`**
 
-  </div>
-</div>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,electron&theme=dark" alt="Next.js, React, Tailwind, Vite, Electron" />
 
----
+**`// backend & data`**
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,postgres,sqlite,supabase&theme=dark" alt="Node.js, Express, FastAPI, .NET, PostgreSQL, SQLite, Supabase" />
 
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">tech-stack — bash</span>
-  </div>
-  <div style="padding:16px;">
-<div align="center">
+**`// infra & tooling`**
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=docker,linux,arch,git,githubactions,vercel&theme=dark" alt="Docker, Linux, Arch, Git, GitHub Actions, Vercel" />
 
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
 
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23042C53?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%23185FA5?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-020B1A?style=flat-square&logo=drizzle&logoColor=C5F74F)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-020B1A?style=flat-square&logo=socketdotio&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-020B1A?style=flat-square&logo=auth0&logoColor=00E5FF)
+![Gemini](https://img.shields.io/badge/Gemini_API-020B1A?style=flat-square&logo=googlegemini&logoColor=8E75FF)
+![Claude Code](https://img.shields.io/badge/Claude_Code-020B1A?style=flat-square&logo=claude&logoColor=D97757)
+![Playwright](https://img.shields.io/badge/Playwright-020B1A?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Vitest](https://img.shields.io/badge/Vitest-020B1A?style=flat-square&logo=vitest&logoColor=FCC72B)
+![Phaser](https://img.shields.io/badge/Phaser-020B1A?style=flat-square&logo=phaser&logoColor=00E5FF)
+![Tailscale](https://img.shields.io/badge/Tailscale-020B1A?style=flat-square&logo=tailscale&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-020B1A?style=flat-square&logo=jupyter&logoColor=F37626)
 
 </div>
-  </div>
-</div>
 
----
-
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
-
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">featured-projects — ls</span>
-  </div>
-  <div style="padding:12px;">
+<img src="./assets/section-deployed.svg" width="100%" alt="03 // DEPLOYED" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [AniMDB](https://github.com/ManuelAmell/animdb)
+### 🏋️ [AdminFit](https://github.com/ManuelAmell/AdminFit)
+**Multi-tenant SaaS for gyms in Colombia.** Members, memberships and payments in one place.
 
-**Tu gestor personal de anime y cine**
+- 🔐 Tenant isolation enforced by **Postgres Row Level Security**
+- 👤 Better Auth + platform superadmin console
+- 🧪 Vitest + Playwright, incl. a tenant-isolation test
 
-App web y desktop (Electron) para organizar, puntuar y descubrir anime y películas. Backend con Express + SQLite y sincronización en tiempo real vía Socket.IO.
-
-**Highlights:**
-- 📋 Vistas: Lista, Ranking, Pendientes, Kanban
-- ⭐ Puntuación 0–10 con drag-and-drop
-- 📥 Importación desde AniList, MAL, Trakt, Letterboxd
-- 📤 Exportación en JSON, CSV, Markdown
-- 🌐 PWA instalable con cache offline
-- 👤 Registro e inicio de sesión por usuario
-
-![TypeScript](https://img.shields.io/badge/TypeScript-52.7%25-%233178C6?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-20.9%25-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-11%25-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+`Next.js 16` `TypeScript` `PostgreSQL` `Drizzle` `shadcn/ui` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Amellify](https://github.com/ManuelAmell/Amellify)
+### 📚 [Amellify v3](https://github.com/ManuelAmell/Amellify)
+**Self-hosted university schedule & grade tracker.** Your semester, your data.
 
-**Gestor de horarios universitarios**
+- 🗓 Interactive visual timetable + weighted grade calculator
+- 🤖 AI assistant via the AI SDK (Gemini / Groq)
+- 📴 Offline-first PWA (Serwist), one-command Docker deploy
 
-App web/PWA para gestionar materias, horarios, profesores y aulas. Sincronización en tiempo real, autenticación JWT y datos por usuario en SQLite.
+`Next.js 16` `React 19` `PostgreSQL 17` `Drizzle` `Better Auth` `Docker`
 
-**Highlights:**
-- 🗓 Vista Grid 24h estilo Google Calendar
-- 🔴 Indicador de hora actual en tiempo real
-- 🧮 Calculadora de notas ponderadas
-- ⌨️ 13 atajos de teclado
-- 📅 Export a PDF, ICS, Google Calendar
-- 🌐 PWA instalable con modo offline
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-69.5%25-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-17%25-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-8.5%25-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+### 🍔 [MonsterBurguer POS](https://github.com/ManuelAmell/MonsterBurguer)
+**End-to-end restaurant POS.** Touch ordering, kitchen screen, cashier and admin.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+- ⚡ Real-time kitchen display (KDS) over **Server-Sent Events**
+- 📦 Recipe-based stock with `SELECT … FOR UPDATE` (no overselling)
+- 🛡 argon2id, opaque sessions, CSRF checks, login rate limiting
+
+`TypeScript` `pnpm monorepo` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚦 [PeajeSys](https://github.com/ManuelAmell/PeajeSys)
+**Toll-station management & revenue auditing.** Built for the Databases course.
+
+- 🚗 Vehicle categories I–VII with per-station dynamic rates
+- 💳 Cash + RFID tele-toll with real-time balance checks
+- 🧾 Immutable audit trail via PostgreSQL triggers, ACID shifts
+
+`PostgreSQL` `C# / .NET` `TypeScript` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [QQSI — Who Wants to Be an Engineer?](https://github.com/ManuelAmell/QQSI)
+**Real-time multi-screen quiz system** for the inter-faculty contest.
+
+- 📡 Auditorium, team phones and jury desk synced via Socket.IO
+- ⏱ Speed bonuses + dynamic point reassignment
+- ∑ KaTeX equations and Prism.js code questions
+
+`Node.js` `Express` `Socket.IO` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [AniMDB](https://github.com/ManuelAmell/animdb)
+**Personal anime & film tracker** for web and desktop.
+
+- 📋 List, Ranking, Kanban and mood-theme views
+- 📥 Import from AniList, MAL, Trakt, Letterboxd
+- 🌐 Installable PWA + Electron, live sync with Socket.IO
+
+`TypeScript` `Vite` `Express` `SQLite` `Electron`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Paladines de la Vida](https://github.com/ManuelAmell/paladines-de-la-vida)
+**Social-impact platform prototype** for the *Tapotón* campaign (Universidad del Atlántico).
+
+- 🧭 Public landing, admin, member and partner portals
+- 🛡 Code-generated SVG armor ranks & badges
+- 📊 Charts, QR invites, rankings
+
+`Next.js` `React` `shadcn/ui` `Framer Motion` `Recharts`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌴 [Conéctate Cartagena](https://github.com/ManuelAmell/Hackathon-Cursor-Conectate-Cartagena)
+**Cursor Hackathon build:** a mobile-first app connecting young people in Cartagena with jobs, training and open calls.
+
+- 🗺 Interactive map with walking routes (Leaflet)
+- 🤖 Gemini helps publish calls and write CVs
+- 📱 Mobile-first feed of opportunities
+
+`React 19` `TypeScript` `Vite` `Tailwind` `Gemini`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚤 [Tierra Bomba Lancha Racing](https://github.com/ManuelAmell/Supabase-Hackathon-3er-place)
+**🏆 3rd place, Supabase Hackathon.** 2D boat racing from the open sea to Tierra Bomba.
+
+- 🎮 Phaser arcade physics, obstacles, progress HUD
+- 🏁 Live top-10 leaderboard + cloud saves
+
+`Phaser` `Supabase` `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [Imágenes Espectrales](https://github.com/ManuelAmell/Imagenes-Espectrales)
+**Material detection in hyperspectral images** of Cartagena (750×750 px, 380 bands).
+
+- 📈 Spectral-signature **arc length** similarity per pixel
+- 🌊 Water / material maps with outlier-robust thresholds
+
+`Python` `NumPy` `OpenCV` `scikit-learn` `Jupyter`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [SARITA](https://github.com/ManuelAmell/SARITA)
+**Voice for your coding agent:** a TTS hook for the Antigravity IDE.
+
+- 🔊 Non-blocking background speech, bilingual ES/EN
+- ✋ Barge-in: new replies interrupt the old audio (lockfile mutex)
+
+`Python` `uv`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [libreuml-diagram-skill](https://github.com/ManuelAmell/libreuml-diagram-skill)
+**Agent skill** that scans Java projects and generates LibreUML `.luml` v2 diagrams.
+
+- 🔍 Classes, interfaces, relationships & multiplicity
+- ✅ Bundled `.luml` validator + examples
+
+`Agent Skills` `Python` `Java`
 
 </td>
 </tr>
 </table>
 
-  </div>
-</div>
+<details>
+<summary><b>🧪 The lab: <a href="https://github.com/ManuelAmell/Programming-Exercises">Programming-Exercises</a></b> (where it all started, Apr 2025)</summary>
 
----
+<br/>
 
-<!-- ═══════════════════ MAIN REPO ═══════════════════ -->
-
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">main-repo — tree</span>
-  </div>
-  <div style="padding:12px;">
-
-<div align="center">
-
-[![Programming-Exercises](https://github-readme-stats.vercel.app/api/pin/?username=ManuelAmell&repo=Programming-Exercises&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/ManuelAmell/Programming-Exercises)
-
-</div>
-
-> 📦 **~600 MB** of organized exercises across 5 languages — created April 2025, actively maintained.
-
-<pre style="background:transparent; margin:0; font-family:'Fira Code',monospace; font-size:13px; line-height:1.55; color:#B5D4F4;">
-<span style="color:#85B7EB; font-weight:bold;">Programming-Exercises/</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#00599C; font-weight:bold;">C++/</span>
-<span style="color:#5A8DBF;">│   ├──</span> File Handling <span style="color:#7A93B5;">(txt &amp; binary)</span>
-<span style="color:#5A8DBF;">│   ├──</span> Arrays &amp; Matrices
-<span style="color:#5A8DBF;">│   ├──</span> Functions &amp; Algebra
-<span style="color:#5A8DBF;">│   ├──</span> Data Structures
-<span style="color:#5A8DBF;">│   ├──</span> Password Generator <span style="color:#7A93B5;">🔒</span>
-<span style="color:#5A8DBF;">│   ├──</span> Port Scanner <span style="color:#7A93B5;">🌐</span>
-<span style="color:#5A8DBF;">│   ├──</span> Games &amp; Visual Effects / ASCII Art
-<span style="color:#5A8DBF;">│   └──</span> Sorting &amp; Pathfinding <span style="color:#7A93B5;">(Bubble, Insertion, Dijkstra)</span>
-<span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#3776AB; font-weight:bold;">Python/</span>
-<span style="color:#5A8DBF;">│   ├──</span> Automation Scripts
-<span style="color:#5A8DBF;">│   ├──</span> Backup System
-<span style="color:#5A8DBF;">│   ├──</span> Mouse Controller
-<span style="color:#5A8DBF;">│   ├──</span> Email Automation
-<span style="color:#5A8DBF;">│   ├──</span> Music Player
-<span style="color:#5A8DBF;">│   ├──</span> AI Integration
-<span style="color:#5A8DBF;">│   ├──</span> Chess Game
-<span style="color:#5A8DBF;">│   ├──</span> PDF Generator
-<span style="color:#5A8DBF;">│   └──</span> Sort Algorithms
-<span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#ED8B00; font-weight:bold;">Java/</span>
-<span style="color:#5A8DBF;">│   ├──</span> HackerRank <span style="color:#7A93B5;">(Easy · Medium · Hard)</span>
-<span style="color:#5A8DBF;">│   ├──</span> Geometric Figures <span style="color:#7A93B5;">(OOP)</span>
-<span style="color:#5A8DBF;">│   ├──</span> Encapsulation Exercises
-<span style="color:#5A8DBF;">│   └──</span> POO Workshops
-<span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#F7DF1E; font-weight:bold;">JavaScript/</span>
-<span style="color:#5A8DBF;">│   ├──</span> Variables &amp; Types
-<span style="color:#5A8DBF;">│   ├──</span> Operators
-<span style="color:#5A8DBF;">│   ├──</span> Control Flow
-<span style="color:#5A8DBF;">│   ├──</span> Objects
-<span style="color:#5A8DBF;">│   ├──</span> Factory Functions
-<span style="color:#5A8DBF;">│   ├──</span> Constructors
-<span style="color:#5A8DBF;">│   └──</span> References
-<span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">└──</span> <span style="color:#E34F26; font-weight:bold;">HTML-CSS/ &amp; Jupyter/</span>
-<span style="color:#5A8DBF;">    ├──</span> index.html, index2.html, style.css
-<span style="color:#5A8DBF;">    └──</span> Data experiments <span style="color:#7A93B5;">(Python notebooks)</span>
-</pre>
-
-  </div>
-</div>
-
----
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">stats — github-stats</span>
-  </div>
-  <div style="padding:12px;">
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelAmell&theme=tokyonight&hide_border=true&background=042C53&ring=378ADD&fire=85B7EB&currStreakLabel=B5D4F4&sideLabels=B5D4F4&dates=85B7EB&stroke=185FA5" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAmell&layout=compact&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&text_color=B5D4F4" width="42%"/>
-
-</div>
-  </div>
-</div>
-
----
-
-<!-- ═══════════════════ CONTRIBUTION ACTIVITY ═══════════════════ -->
-
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">contributions — git log</span>
-  </div>
-  <div style="padding:12px;">
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelAmell&bg_color=042C53&color=85B7EB&line=378ADD&point=ffffff&area=true&area_color=185FA5&hide_border=true" width="100%"/>
-
-</div>
-  </div>
-</div>
-
----
-
-<!-- ═══════════════════ LEARNING PATH ═══════════════════ -->
-
-<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
-  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
-    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
-    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">learning — todo</span>
-  </div>
-  <div style="padding:12px;">
-
-```
-[✅] C++         — OOP, Algorithms, Files, Systems Programming
-[✅] Java        — OOP, HackerRank, Workshops
-[✅] Python      — Automation, AI, Games, Scripting
-[✅] JavaScript  — Fundamentals, Objects, Control Flow
-[✅] HTML/CSS    — Web Fundamentals
-[✅] Git         — Version Control
-[✅] Linux       — Command Line & Daily OS
-[🔄] Supabase   — Backend as a Service
-[🔄] JavaScript — Advanced concepts & frameworks
-[⬜] SQL/NoSQL  — Databases in depth
-[⬜] REST APIs  — Backend development
-[⬜] Cloud      — Deployment & DevOps
+```text
+Programming-Exercises/
+├── C++/          file I/O · matrices · data structures · port scanner · Dijkstra · ASCII games
+├── PYTHON/       automation · backups · camera mouse · email bots · AI · chess · PDF tools
+├── JAVA/         HackerRank (easy → hard) · OOP workshops · encapsulation
+├── JAVASCRIPT/   fundamentals · objects · factories · constructors
+├── TYPESCRIPT/   typed experiments
+└── HTML/         web fundamentals
 ```
 
-  </div>
-</div>
+Also: [**AmellCode++**](https://github.com/ManuelAmell/AmellCode-), my first minimal C++ IDE (Qt · C++ · Makefile), and [**Enchiladitos**](https://github.com/ManuelAmell/Enchiladitos), a POS + CRM for a snack business (React · Supabase).
 
----
+</details>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<img src="./assets/section-classified.svg" width="100%" alt="04 // CLASSIFIED" />
+
+> Private and client builds. Source is restricted; descriptions only.
+
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 🔒 | **Purchase-Sheet Digitizer** | Turns phone photos of handwritten purchase orders for a retail chain into validated data: Gemini structured outputs, 14 accounting rules, fuzzy catalog matching, human review UI, `.docx` export | `FastAPI` `SQLAlchemy` `React` `Gemini` `Docker` |
+| 🔒 | **CEISync** | Finds the best meeting slots for the Systems Engineering Student Council from everyone's class schedules (heat map + ranked windows) | `Python` `pytest` |
+| 🔒 | **PhiShield** | CTW Hackathon 2026: phishing & scam link scanner with community reports and a WhatsApp bot | `React` `Supabase` `VirusTotal` |
+| 🔒 | **AmellOS** | Debian home server: Dockerized media & admin stacks, Tailscale exit node, automated backups | `Debian` `Docker` `Tailscale` `Bash` |
+| 🔒 | **MATE Facturas** | Invoicing web app with PDF + QR invoices | `React` `Express` `MySQL` `Sequelize` |
+| 🔒 | **CleanCare Hogar** | Landing site for a home-cleaning business | `React` `Tailwind v4` |
+
+<img src="./assets/section-achievements.svg" width="100%" alt="05 // ACHIEVEMENTS" />
+
+```diff
++ 🏆 3rd place: Supabase Hackathon            → Tierra Bomba Lancha Racing
++ ⚡ Cursor Hackathon builder                  → Conéctate Cartagena
++ 🛡 CTW Hackathon 2026                        → PhiShield
++ 🎓 Tools for CEIS (Student Council, UdeC)    → CEIS_HUB · CEISync · QQSI
++ 🚀 Real software for local businesses             → retail · food · fitness
+```
+
+<img src="./assets/section-telemetry.svg" width="100%" alt="06 // TELEMETRY" />
 
 <div align="center">
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelAmell&hide_border=true&background=020B1A&ring=00E5FF&fire=00E5FF&currStreakNum=E8EEF7&currStreakLabel=00E5FF&sideNums=E8EEF7&sideLabels=85B7EB&dates=5A8DBF&stroke=185FA5" width="58%" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAmell&layout=compact&hide_border=true&bg_color=020B1A&title_color=00E5FF&text_color=B5D4F4" width="38%" alt="Top languages" />
 
-> *"Innovation distinguishes between a leader and a follower."*
->
-> — Steve Jobs
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ManuelAmell&style=flat-square&color=378ADD&label=Profile+Views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/ManuelAmell?style=flat-square&color=185FA5&label=Followers)
-&nbsp;
-![Repo](https://img.shields.io/badge/Main%20Repo-Programming--Exercises-%23042C53?style=flat-square)
-
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelAmell&bg_color=020B1A&color=85B7EB&line=00E5FF&point=ffffff&area=true&area_color=185FA5&hide_border=true&title_color=00E5FF" width="100%" alt="Contribution activity graph" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:185FA5,100:042C53&height=130&section=footer" width="100%"/>
+<img src="./assets/section-roadmap.svg" width="100%" alt="07 // ROADMAP" />
+
+```text
+[✓] C++ · Java · Python      OOP, algorithms, data structures, automation
+[✓] JavaScript / TypeScript  Next.js, React, Node, Express, Vite
+[✓] SQL / PostgreSQL         modeling, 3NF, triggers, RLS, transactions
+[✓] REST & real-time APIs    FastAPI, Express, Socket.IO, SSE
+[✓] Docker · Linux · Git     daily driver: Arch + Hyprland, self-hosted homelab
+[~] Cloud & DevOps           CI pipelines, deployments, observability
+[~] AI agents & tooling      multi-agent orchestration, skills, LLM pipelines
+[~] C# / .NET                backend services
+[ ] Kubernetes               container orchestration at scale
+[ ] Distributed systems      queues, consensus, event-driven design
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+> **— Steve Jobs**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManuelAmell&style=flat-square&color=00E5FF&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ManuelAmell?style=flat-square&color=185FA5&label=FOLLOWERS&labelColor=020B1A)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=flat-square&labelColor=020B1A)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:185FA5,100:020B1A&height=130&section=footer" width="100%" alt="" />
