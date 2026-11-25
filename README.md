@@ -6,8 +6,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+booting+amell.sys+...+%5BOK%5D;Full-stack%3A+Next.js+%C2%B7+PostgreSQL+%C2%B7+Python;Building+AI-assisted+tools+%26+agent+workflows;Linux+%2F+Hyprland+power+user;Shipping+real+software+for+real+clients." alt="Typing SVG" /></a>
 
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-ManuelAmell-020B1A?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=042C53)](https://github.com/ManuelAmell)
 [![Email](https://img.shields.io/badge/Email-Contact-020B1A?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=042C53)](mailto:manuelfcoamell@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-020B1A?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=042C53)](https://www.linkedin.com/in/manuel-amell-19b4a0398)
@@ -16,16 +14,10 @@
 
 <img src="./assets/section-identity.svg" width="100%" alt="01 // IDENTITY" />
 
-<table>
-<tr>
-<td width="45%" valign="top" align="center">
-<img src="./manuel-ascii.svg" width="100%" alt="Manuel Amell — ASCII portrait" />
-</td>
-<td width="55%" valign="top" align="center">
-<img src="./assets/neofetch.svg" width="100%" alt="neofetch: Manuel Amell · Cartagena, Colombia · Systems Engineering · TS, Python, C++, Java, C#, SQL" />
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="./manuel-ascii.svg" width="49%" alt="Manuel Amell — ASCII portrait" />
+<img src="./assets/neofetch.svg" width="49%" alt="neofetch: Manuel Amell · Cartagena, Colombia · Systems Engineering · TS, Python, C++, Java, C#, SQL" />
+</p>
 
 ```text
 > I build software that ships: multi-tenant SaaS, point-of-sale systems, real-time apps,
